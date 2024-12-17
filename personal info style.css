@@ -1,12 +1,13 @@
 p{
     text-align: center;
     color: azure;
-    font-size:30px ;
+    font-size:60pxpx ;
     font-family: B Nazanin;
 }
 img{
+
     height: 50%;
-    width: 50%;
+    width: 100%;
 }
 h1{
      text-align: center;
@@ -18,5 +19,14 @@ h3{
     font-size: 30px;
     color: black;
     font-family: B Nazanin;
-    
+
+}
+h2{
+    text-align: center;
+    font-family: B nazanin;
+    font-size: 40px;
+
+}
+.container{
+    text-align: center;
 }
