@@ -1,7 +1,7 @@
 p{
     text-align: center;
-    color: azure;
-    font-size:60pxpx ;
+    color: BLACK;
+    font-size:60px ;
     font-family: B Nazanin;
 }
 img{
@@ -29,4 +29,18 @@ h2{
 }
 .container{
     text-align: center;
+}
+table{
+    border: 9px  dotted black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th{
+    border: 9px solid black;
+    padding: 10px;
+}
+tr, th,{
+    padding: 10px;
+    text-align: center;
+    border: 9px;
 }
