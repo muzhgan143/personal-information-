@@ -36,11 +36,6 @@ table{
     width: 100%;
 }
 td, th{
-    border: 9px solid black;
+    border: 3px solid black;
     padding: 10px;
-}
-tr, th,{
-    padding: 10px;
-    text-align: center;
-    border: 9px;
 }
