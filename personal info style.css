@@ -53,3 +53,6 @@ td, th{
 color: rgba(0, 0, 255, 1);
     font-size: 60px;
 }
+.th{
+    font: 100px;
+}
