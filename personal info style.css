@@ -39,3 +39,8 @@ td, th{
     border: 3px solid black;
     padding: 10px;
 }
+#b{
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial Black;
+}
