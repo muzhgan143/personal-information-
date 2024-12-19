@@ -31,7 +31,7 @@ h2{
     text-align: center;
 }
 table{
-    border: 9px  dotted black;
+    border: 3px  solid black;
     border-collapse: collapse;
     width: 100%;
 }
@@ -53,7 +53,8 @@ td, th{
 color: rgba(0, 0, 255, 1);
     font-size: 60px;
 }
-.th{
+.blanks{
+    text-align: center;
     font: 100px;
 }
 #e{
@@ -64,4 +65,7 @@ color: rgba(0, 0, 255, 1);
 #F{
     font-size: 50px;
     color: #6fc7d8;
+}
+.th{
+    background-color: blue;
 }
