@@ -56,3 +56,8 @@ color: rgba(0, 0, 255, 1);
 .th{
     font: 100px;
 }
+#e{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+    font-size: medium;
+}
