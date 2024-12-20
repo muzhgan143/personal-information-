@@ -73,3 +73,6 @@ color: rgba(0, 0, 255, 1);
 #G{
     background-color:rgb(86, 121, 170); 
 }
+.input{
+    width: 100%;
+}
