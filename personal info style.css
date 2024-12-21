@@ -88,8 +88,9 @@ color: rgba(0, 0, 255, 1);
 }
 
 .classes{
-    width: 100%;
+    max-width: 500px;
 }
 .div{
     background-color: blue;
 }
+.
