@@ -21,7 +21,7 @@
             <th>Fee</th>
             <th>Valency</th>
         </tr>
-        <section id="G">
+        <div class="div">
         <tr>
             <th>English class</th>
             <td>6 mounth</td>
@@ -42,30 +42,45 @@
         <td>8 mount</td>
         <td>300/mounth</td>
         <td>15</td>
-    </tr></section>
+    </tr></div>
     </table>
     <p class="blanks">fill the blanks</p>
     <h4>Registration Form</h4>
     <FORM>
     <label for="">Name:
+        <br>
     <input type="text"
     name="Name" placeholder="Enter your name"></label>
     <br>
     <label for="">F/Name:
+        <br>
        <input type="text"
         name="Father/name" placeholder="Enter your father name"></label>
     <br>
     <label for="">Last Name:
+        <br>
        <input type="last/Name" placeholder="Enter your last name"></label>
     <br>
     <label for="">Email Address:
+        <br>
        <input type="email"
     name="email address" placeholder="Enter your email address"></label>
+    <b>
     <br>
-    <label for="">Phone Number:
-       <input type="number"
-    name="phone number" placeholder="enter your phone number "></label>
+    <h5 >You can select your favorite class:</h5>
     <br>
+    <form class="classes">
+        <select name="" id="">
+           <optgroup label="Courses">
+                   <option value="English class">English Class</option>
+                   <option value="Windows">Windows</option>
+                   <option value="Office pacage">Office Pacage</option>
+                   <option value="programming class">Programming Class</option>
+                   <option value="css">CSS</option>
+               </optgroup>
+              </select>
+           </form>
+           <br>
     <label for="">female
         <input type="radio"
         name="male"
@@ -78,20 +93,6 @@
         </label>
         </form>
         <br>
-        <form action="">
-            <input type="submit">
-            <input type="checkbox" 
-            name="Courses"
-            value="English class ">
-            <input type="checkbox"
-            name="Courses"
-            value="Office pacage">
-            <input type="checkbox"
-            name="Courses"
-            value="Windows">
-            <input type="checkbox"
-            name="Courses"
-            value="Programming class">
-    </FORM>
+     <button>Send</button>
 </body>
 </html>
