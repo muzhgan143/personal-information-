@@ -73,7 +73,8 @@ color: rgba(0, 0, 255, 1);
 }
 #F{
     font-size: 50px;
-    color: #6fc7d8;
+    color: #4904f8;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .th{
     color: white;
@@ -82,6 +83,7 @@ color: rgba(0, 0, 255, 1);
 #G{
     background-color:rgb(86, 121, 170); 
     text-align: center;
+    font-size: 50px;
 }
 .input{
     width: 100%;
