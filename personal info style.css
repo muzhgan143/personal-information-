@@ -95,4 +95,8 @@ color: rgba(0, 0, 255, 1);
 .div{
     background-color: blue;
 }
-.
+h1{
+    border: solid 9px blue;
+    text-align: center;
+
+}
