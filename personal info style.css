@@ -5,7 +5,7 @@ p{
     font-family: B Nazanin;
     background-color: #4904f8;
     border: 3px dotted black;
-    
+
 }
 img{
 
@@ -100,10 +100,11 @@ color: rgba(0, 0, 255, 1);
 }
 h1{
     border: solid 9px blue;
-    text-align: center;
+    text-align: left;
     font-size: 80px;
     font-family: Arial, Helvetica, sans-serif;
     color: #4904f8;
     background-color: aqua;
+    margin: 3px;
 }
 
