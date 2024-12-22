@@ -98,5 +98,7 @@ color: rgba(0, 0, 255, 1);
 h1{
     border: solid 9px blue;
     text-align: center;
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
 
 }
