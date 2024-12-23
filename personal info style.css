@@ -62,8 +62,11 @@ td, th{
 }
 #a{
     font-family:Arial black ;
-color: rgba(0, 0, 255, 1);
+color: black;
     font-size: 60px;
+    text-align: justify;
+background-color: #4904f8;
+
 }
 .blanks{
     margin: 1 2 1 2;
@@ -107,5 +110,8 @@ h1{
     color: #4904f8;
     background-color: aqua;
     margin: 3px;
+}.h{
+    text-align: center;
+    font-size: 30px;
 }
 
