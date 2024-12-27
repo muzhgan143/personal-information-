@@ -1,5 +1,6 @@
 body{
      font-family:serif , monospace;
+     background-color: blanchedalmond;
 }
 h1{
     font-size: 110px;
@@ -30,7 +31,20 @@ p{
 .style{
     width: 30%;
     font-size: 45px;
-    background-color: rgb(20, 129, 19);
-      border: 3px solid rgb(20, 129, 19);
+    background-color: rgb(190, 87, 23);
+      border: 3px solid rgb(190, 87, 23);
       border-radius: 10px;
+}
+label{
+    text-shadow: 2px 2px 4px black, 4px 4px 6px rgb(218, 229, 217);
+}
+input{
+    background-color: rgb(255, 255, 255);
+    border: 3px solid white;
+    border-radius: 10px;
+}
+div{
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 10px;
 }
