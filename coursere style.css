@@ -7,6 +7,7 @@ h1{
     text-transform: capitalize;
     width: 100%;
     margin: 0 0 0 0;
+    text-shadow: 2px 2px 4px black, 4px 4px 6px rgb(20, 129, 19);
 }
 h2{
     width: 100%;
@@ -24,6 +25,10 @@ p{
     font-size: 30px;
   
 }
-form{
-    width: 100%;
+.style{
+    width: 30%;
+    font-size: 45px;
+    background-color: rgb(20, 129, 19);
+      border: 3px solid rgb(20, 129, 19);
+      border-radius: 10px;
 }
