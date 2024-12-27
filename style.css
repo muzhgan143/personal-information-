@@ -1,0 +1,73 @@
+button{
+    width: 100%;
+    height: 85px;
+    background-color: rgb(42, 133, 207);
+    font-size: 70px;
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 10px;
+    border: 3px solid rgb(42, 133, 207);
+}
+
+.img{
+    text-align: center;
+}
+body{
+    text-align: center;
+}
+#hw{
+    text-align: center;
+    border: 3px solid rgb(90, 88, 95);
+    border-radius: 700px;
+    margin-left: 550px;
+    margin-right: 550px;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 120px;
+    background-color:rgb(90, 88, 95) ;
+    color: white;
+    font-family: serif, sans-serif;
+}
+h1{
+    background-color: white;
+    font-size: 90px;
+    margin: 2 0 3 0;
+    font-weight: bold;
+    font-family: serif;
+}
+h2{
+    color: rgb(181, 180, 180);
+    font-weight: normal;
+    margin: 0 0 3 0;
+    font-size: 50px;
+    font-variant: normal;
+    font-family: cursive;
+}
+h3{
+    font-size: 40px;
+}
+#Male{
+    border: 2px solid rgb(255, 249, 249);
+    font-size: 35px;
+    margin: 0 0 0 0;
+    font-family: monospace;
+}
+.birthday{
+    border: 2px solid rgb(255, 249, 249);
+    margin: 0 0 0 0;
+    font-size: 35px;
+    font-family: monospace;
+}
+.country{
+    border: 2px solid rgb(255, 249, 249);
+    margin: 0 0 0 0;
+    font-size: 35px; 
+    font-style: bold;
+    font-family: monospace;
+}
+.submit{
+    font-family: fantasy;
+}
+.coursera{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
