@@ -1,12 +1,19 @@
 body{
     background-color: rgb(3, 3, 159);
     color: white;
+    text-align: center;
 }
 h1{
-    text-align: left;
-    text-align: left;
     font-family: 'Courier New', Courier, monospace;
+    font-size: 70px;
+    margin: 0 0 0 0;
 }
 a{
     color: rgb(69, 69, 252);
+}
+input{
+    width: 65%;
+}
+h2{
+
 }
