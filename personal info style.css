@@ -118,15 +118,7 @@ h3{
    margin: 0 0 0 0;
 }
 h4{
-   display: inline-block;
-   font-size: 70px;
-   border: 5px solid rgb(0, 0, 255);
-   width: 25%;
-   text-align: center;
-   border-radius: 9px;
-   background-color: blue;
-   color: white;
-   margin: 0 0 0 0;
+   
 
 }
 body{
@@ -134,4 +126,15 @@ body{
     line-height: 1.5;
     word-spacing: 3px;
     white-space: wrap;
+}
+button{
+    display: inline-block;
+    font-size: 70px;
+    border: 5px solid rgb(0, 0, 255);
+    width: 25%;
+    text-align: center;
+    border-radius: 9px;
+    background-color: blue;
+    color: white;
+    margin: 0 0 0 0;
 }

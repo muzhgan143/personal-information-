@@ -12,8 +12,11 @@ a{
     color: rgb(69, 69, 252);
 }
 input{
-    width: 65%;
+    width: 55%;
 }
 h2{
 
+}
+label{
+    text-align: left;
 }
