@@ -12,10 +12,11 @@ a{
     color: rgb(69, 69, 252);
 }
 input{
+    height: 30px;
     width: 55%;
 }
 h2{
-
+   text-align: center;
 }
 label{
     text-align: left;
