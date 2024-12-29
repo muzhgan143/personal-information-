@@ -1,7 +1,7 @@
 body{
     background-color: rgb(3, 3, 159);
     color: white;
-    text-align: center;
+    text-align: left;
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
@@ -16,8 +16,19 @@ input{
     width: 55%;
 }
 h2{
-   text-align: center;
+   text-align: left;
 }
 label{
     text-align: left;
+    font-size: 20px;
 }
+button{
+    font-size: 15px;
+    text-transform: uppercase;
+    background-color: #5555ff;
+    border: #5555ff;
+    border-radius: 4px;
+    margin: 2 2 2 2;
+    h3{
+       
+    }
