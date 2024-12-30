@@ -1,10 +1,10 @@
 p{
-    width: 10%;~
-    font-size: 30px;
-    border: 3px solid black;
+    width: 20%;
+    font-size: 60px;
+    border: 1px solid black;
     font-family: 'Courier New', Courier, monospace;
     border-radius: 120px;
-    margin-left: 520px;
+    margin-left:120px;
     margin-right: 120px;
     text-align: center;
     display: inline;
