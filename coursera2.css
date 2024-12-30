@@ -20,3 +20,6 @@
     display: inline;
     font-style: italic;
 }
+optgroup{
+    width: 100%;
+}
