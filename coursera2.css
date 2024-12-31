@@ -3,11 +3,11 @@ i{
     text-align: center;
     border: 3px solid rgb(90, 88, 95);
     border-radius: 700px;
-    font-size: 100px;
+    font-size: 80px;
     color: white;
     font-family: serif, sans-serif;
-    height: 20px;
-    margin: 0 0 0 0;
+    height: 15px;
+    margin: 0px 0px 0px 0px;
 }
 p{
     display: inline;
@@ -17,7 +17,6 @@ p{
     color: blue;
 }
 div{
-    text-align: center;
     background-color:rgb(226, 226, 231);
     margin-left: 200px;
     margin-right: 200px;
@@ -35,18 +34,21 @@ h1{
 }
 select{
     width: 100%;
-    font-size: 40px;
+    font-size: 30px;
     border: 1px solid rgb(10, 10, 99);
     border-radius: 10px;
 }
 label{
     font-size: 25px;
 }
-button{
-    width: 100%;
+a{
+    text-align: left;
     font-size: 25px;
     background-color: rgb(76, 76, 246);
     border: 1px solid rgb(76, 76, 246);
     border-radius: 10px;
     color: white;
+}
+input{
+    border: 1px solid rgb(10, 10, 99);
 }
