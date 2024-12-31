@@ -14,12 +14,14 @@ p{
     margin: 0 0 0 0;
     border: 1px solid black;
     text-align: center;
+    color: rgb(156, 156, 156);
 }
 div{
     text-align: center;
     background-color:rgb(226, 226, 231);
     margin-left: 200px;
     margin-right: 200px;
+    height: 600px;
 }
 form{
     text-align: left;
@@ -29,4 +31,11 @@ h1{
     text-align: left;
     margin-left: 15px;
     margin-bottom: 0px;
+    color: rgb(33, 33, 145);
+}
+select{
+    width: 100%;
+    font-size: 40px;
+    border: 1px solid rgb(10, 10, 99);
+    border-radius: 10px;
 }
