@@ -17,10 +17,9 @@ p{
     color: white
 }
 div{
-    background-color:rgb(226, 226, 231);
-    margin-left: 200px;
-    margin-right: 200px;
+    background-color:rgb(21, 21, 247);
     height: 600px;
+    text-align: left;
 }
 form{
     text-align: left;
@@ -30,7 +29,7 @@ h1{
     text-align: left;
     margin-left: 15px;
     margin-bottom: 0px;
-    color: rgb(33, 33, 145);
+    color: white;
 }
 select{
     width: 100%;
@@ -42,7 +41,7 @@ label{
     font-size: 25px;
 }
 a{
-    text-align: left;
+    text-align: center;
     font-size: 25px;
     background-color: rgb(76, 76, 246);
     border: 1px solid rgb(76, 76, 246);
