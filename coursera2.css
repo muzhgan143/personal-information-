@@ -14,7 +14,7 @@ p{
     margin: 0 0 0 0;
     border: 1px solid black;
     text-align: center;
-    color: rgb(156, 156, 156);
+    color: blue;
 }
 div{
     text-align: center;
@@ -38,4 +38,15 @@ select{
     font-size: 40px;
     border: 1px solid rgb(10, 10, 99);
     border-radius: 10px;
+}
+label{
+    font-size: 25px;
+}
+button{
+    width: 100%;
+    font-size: 25px;
+    background-color: rgb(76, 76, 246);
+    border: 1px solid rgb(76, 76, 246);
+    border-radius: 10px;
+    color: white;
 }
