@@ -1,3 +1,6 @@
+body{
+    width: 100%;
+    font-size: 30px}
 ul.a{
     list-style-type: circle;
 }
@@ -9,4 +12,10 @@ ol.b{
 }
 ol{
     list-style-type: number;
+}
+ul.c{
+    list-style-type: circle;
+}
+i{
+    color: red;
 }
