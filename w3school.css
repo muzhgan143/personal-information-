@@ -1,3 +1,50 @@
 body{
     text-align: center;
+    font-size: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 15px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 35px;
+}
+div.a{
+    background-color: rgb(27, 11, 106);
+    color: white;
+    margin:  0px;
+}
+div.b{
+    background-color:rgb(173, 239, 218);
+    color: white;
+    margin: 0px;
+}
+div.c{
+    background-color: rgb(238, 215, 6);
+    color: black;
+    margin: 0px;
+}
+div.d{
+    background-color: rgb(61, 105, 216);
+    color: white;
+    margin: 0px;
+}
+div.e{
+    background-color: white;
+    color: black;
+    margin: 0px;
+}
+div{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+button{
+    background-color: rgb(6, 96, 6); 
+    font-size: 30px;
+    border: 1px solid rgb(6, 96, 6);
+    border-radius: 20px;
+    color: white;
+    width: 20%;
 }
