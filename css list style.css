@@ -4,3 +4,9 @@ ul.a{
 ul{
     list-style-type: square;
 }
+ol.b{
+    list-style-type: upper-roman;
+}
+ol{
+    list-style-type: number;
+}
