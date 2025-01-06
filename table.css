@@ -1,0 +1,19 @@
+table,th,td{
+    border:1px solid black;
+    border-collapse:collapse;
+    border-radius:2px;
+    }
+    th{
+    text-align:center;
+    background-color:blue;
+    font-family:Algerian;
+    }
+    td{
+    background-color:rgb(0,0,143,0.5);
+    font-size:15px;
+    text-align:center;
+    font-family:Arial Rounded MT;
+    }
+    table{
+    width:100%
+    }
