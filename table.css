@@ -2,15 +2,16 @@ table,th,td{
     border:1px solid black;
     border-collapse:collapse;
     border-radius:2px;
+    color: white;
     }
     th{
     text-align:center;
-    background-color:blue;
+    background-color:rgb(93, 93, 225);
     font-family:Algerian;
     height: 40px;
     }
     td{
-    background-color:rgb(0,0,143,0.5);
+    background-color:rgb(155, 155, 216);
     font-size:15px;
     text-align:center;
     font-family:Arial Rounded MT;
